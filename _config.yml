@@ -1,0 +1,12 @@
+# Site settings
+title: "81 Interior"
+email: "81interior@gmail.com"
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: 81interior
+github_username:
+
+# Build settings
+markdown: kramdown
